@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ReaLTaiizor/3.8.0.7": {
+        "runtime": {
+          "lib/net8.0-windows7.0/ReaLTaiizor.dll": {
+            "assemblyVersion": "3.8.0.7",
+            "fileVersion": "3.8.0.7"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReaLTaiizor/3.8.0.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BTqUqATyfrNLE9I3Uga+g3QqidUn8bPv1W59thmJL8lsCxbzF5mgyRra2qLpRuA8I7ZQx4BRWexPLt5YAGbszQ==",
+      "path": "realtaiizor/3.8.0.7",
+      "hashPath": "realtaiizor.3.8.0.7.nupkg.sha512"
+    }
+  }
+}
